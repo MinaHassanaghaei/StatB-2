@@ -1,15 +1,15 @@
 
- Dealing with missing values
+# Dealing with missing values
 
-## General Information 
+## General information: 
 
-This repository is including the R package.  
+This repository is including the R package, for:
 + **assignment**: B-2
 
 + **Course**: STAT 545B (Term 1, 2022)
 
 ## Package description:
-This is the R package named `Imputation` including the `impute function` for replacing the missing values with the desired given number.  The function is working with `data frame`(first argument of the function), the second argument of the function is selecting the `numerical column vector`. The given number is the third argument of the function which is replaced into missing value place. 
+This is the R package named `Imputation` including the `impute function` for replacing the missing values with the desired given number.  The function is working with `data frame`(first argument of the function), the second argument is selecting the `numerical column vector`. The given number is the third argument of the function which is replaced into missing value place. 
 
 
 ## Testing
