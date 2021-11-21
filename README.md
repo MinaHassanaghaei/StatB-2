@@ -1,14 +1,13 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+# Dealing with missing values
 
-# Dealing with missing values:
+## Package Description: 
 
-<!-- badges: start -->
-<!-- badges: end -->
+This is the R package named `Imputation` including the `impute function` for replacing the missing values with the desired given number.  The function is working with `data frame`, the second arrgument of the function is selecting the `numerical column vector`. The given numbre is the third arrgument of the function which is repalced in to missing value place. 
 
-The goal of Imputation is to impute missing valuesa of a numerical vector with a desired number
-This package has been made to deal with missing values in the data set. 
+##
 
+## Testing
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
