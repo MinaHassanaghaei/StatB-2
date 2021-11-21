@@ -1,13 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Imputation
+# Dealing with missing values:
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of Imputation is to impute missing valuesa of a numerical
-vector with a desired number
+The goal of Imputation is to impute missing valuesa of a numerical vector with a desired number
+This package has been made to deal with missing values in the data set. 
 
 ## Example
 
